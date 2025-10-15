@@ -1,3 +1,4 @@
+//Código elaborado por Max Martínez
 public class SinglyLinkedList {
     //Instanciamos nuestra cabecera
     private Node head;

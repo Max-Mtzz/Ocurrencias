@@ -1,3 +1,4 @@
+//Código elaborado por Max Martínez
 public class App {
     public static void main(String[] args) throws Exception {
         SinglyLinkedList list = new SinglyLinkedList();
